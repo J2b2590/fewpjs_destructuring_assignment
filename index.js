@@ -25,6 +25,9 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
+
+const [moo, neigh, baa, oink, cluck] = 'cow horse sheep pig chicken'.split(' ')
+
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
